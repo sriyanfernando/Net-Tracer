@@ -1,0 +1,1 @@
+tail -f logfile.txt >> log_update.txt
